@@ -23,7 +23,7 @@ Hyperparameter tuning is a crucial step in building neural network models such a
 |  **Genetic Algortithm**   |      0\.0105      |           200            |         4         |        484         |    0\.88     |
 
 
-<img  src="https://github.com/Sarahhongqin/CISC-851-Evolutionary-Computng/blob/main/Assets/gen22_mean_validation_accuracy.PNG"  width="550px"  height="550px"/>
+<img  src="https://github.com/Sarahhongqin/CISC-851-Evolutionary-Computng/blob/main/Assets/gen22_mean_validation_accuracy.PNG"  width="500"  height="350"/>
 
 ### How to Run
 
