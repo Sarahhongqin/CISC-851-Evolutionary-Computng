@@ -1,7 +1,7 @@
 # CISC-851-Evolutionary-Computing
 
 <hr>
-## Efficient Hyperparameter Optimization of LSTM Networks: A Comparative Study
+### Efficient Hyperparameter Optimization of LSTM Networks: A Comparative Study
 
 <hr>
 ### Abstract
