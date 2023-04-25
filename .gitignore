@@ -7,6 +7,7 @@ dist/
 [Oo]bj/
 [Bb]in/
 
+
 # Other files and folders
 .settings/
 .build/
@@ -16,8 +17,8 @@ dist/
 .csv
 .ipynb/
 .dist/
-.build/lib/PR stats/
 
+.DS_Store
 
 
 # Executables

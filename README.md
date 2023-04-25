@@ -8,6 +8,7 @@ Hyperparameter tuning is a crucial step in building neural network models such a
 1. Code/Bayesian_and_Random_.ipynb : contains the results of the algorithm generated from the random search and the bayesian optimization methods.
 2. Code/gentic.py: contains code  for  genetic algorithm.
 3. Code/GA.ipynb: contains the implementation of genetic algorithm on our LSTM network.
+4. Assets/gen22_mean_validation_accuracy.PNG: contains the mean validation accuracy figure.
 
 
 ### How to Run
