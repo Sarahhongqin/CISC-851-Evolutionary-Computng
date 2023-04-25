@@ -11,7 +11,7 @@ class geneticMaterial:
 
     num_hyper_parameters = 4
     num_population = 20
-    max_generations = 15
+    max_generations = 22
 
     mutation_probability = 0.3
 
